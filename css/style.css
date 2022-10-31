@@ -20,32 +20,7 @@ a{
 	position:relative;
 	z-index:100;
 	margin:auto;
-
-	padding-top: 40px;
-	display: flex;
-	justify-content: column;
-	align-items: center;
-	flex-wrap: wrap;
-}
-
-.container ul li{
-	padding-bottom: 160px;
-}
-
-@media screen and (max-width: 1000px){
-	.container ul li{
-		width: 300px;
-		height: 200px;
-		padding-bottom: 220px;
-		text-align: center;
-		margin-left: 20px;
-	}
-
-	.container ul li h2{
-		text-align: center;
-	}
-	
-}
+ }
 
 #midvines {
 	margin: 0;
