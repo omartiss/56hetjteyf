@@ -39,11 +39,11 @@ a{
 	}
 
 	.container ul li{
-		width: 300px;
+		width: 250px;
 		height: 200px;
 		padding-bottom: 220px;
 		text-align: center;
-		margin-left: 20px;
+		margin-left: 10px;
 	}
 
 	.container ul li h2{
